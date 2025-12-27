@@ -69,8 +69,3 @@ The notebook follows a complete **data science workflow** from exploratory data 
    jupyter notebook insurance_model.ipynb
 
 4. Ensure the dataset path is correct and run all cells.
-
-
-## 👤 Author
-**Boddul Vivek**
-Aspiring Data Scientist | Machine Learning Enthusiast
